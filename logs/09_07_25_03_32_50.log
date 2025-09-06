@@ -1,0 +1,9 @@
+[2025-09-07 03:32:51,110] [22] [root] - INFO - Entered the data ingestion method or component
+[2025-09-07 03:32:51,133] [25] [root] - INFO - Read the dataset as dataframe
+[2025-09-07 03:32:51,155] [36] [root] - INFO - ingestion of the data is completed
+[2025-09-07 03:32:51,182] [70] [root] - INFO - Read train and test data completed
+[2025-09-07 03:32:51,182] [71] [root] - INFO - Obtaining preprocessing object
+[2025-09-07 03:32:51,182] [50] [root] - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2025-09-07 03:32:51,182] [51] [root] - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-09-07 03:32:51,186] [83] [root] - INFO - Applying preprocessing on train and test data
+[2025-09-07 03:32:51,211] [91] [root] - INFO - Saving preprocessing object
